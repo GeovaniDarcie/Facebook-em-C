@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1386780235 source:d:\projgrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1389200078 source:d:\pesquisa\publicações\livros\livro estutura de dados em c\códigos\projgrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1389187366 source:d:\andre\pesquisa\publicações\livros\livro estutura de dados em c\códigos\projgrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1388959456 d:\andre\pesquisa\publicações\livros\livro estutura de dados em c\códigos\projgrafo\grafo.h
+
+1389203656 source:d:\andre\pesquisa\publicações\livros\livro estutura de dados em c\códigos\projgrafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1388766717 source:e:\ertai\levar casa\temp\livro estutura de dados em c\códigos\projgrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1388766377 e:\ertai\levar casa\temp\livro estutura de dados em c\códigos\projgrafo\grafo.h
+
+1388766762 source:e:\ertai\levar casa\temp\livro estutura de dados em c\códigos\projgrafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1388955856 d:\pesquisa\publicações\livros\livro estutura de dados em c\códigos\projgrafo\grafo.h
+
+1392658366 source:d:\pesquisa\publicações\livros\livro estutura de dados em c\códigos\projgrafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1574647448 source:c:\users\geova\downloads\projgrafo\projgrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+
+1574554326 c:\users\geova\downloads\projgrafo\projgrafo\grafo.h
+
+1574555954 source:c:\users\geova\downloads\projgrafo\projgrafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<locale.h>
+
+1574691936 source:c:\users\geova\downloads\projgrafo\faceboca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+
+1574703122 c:\users\geova\downloads\projgrafo\faceboca\grafo.h
+
+1574691751 source:c:\users\geova\downloads\projgrafo\faceboca\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<locale.h>
+
+1574705253 source:c:\users\geova\downloads\faceboca\faceboca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+
+1574705253 c:\users\geova\downloads\faceboca\faceboca\grafo.h
+
+1574705253 source:c:\users\geova\downloads\faceboca\faceboca\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<locale.h>
+
+1574705253 source:c:\users\geova\onedrive\área de trabalho\faceboca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+
+1574705253 c:\users\geova\onedrive\área de trabalho\faceboca\grafo.h
+
+1574705253 source:c:\users\geova\onedrive\área de trabalho\faceboca\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<locale.h>
+
+1574705253 source:c:\users\geova\onedrive\documentos\programas\programinhas em c\faceboca\faceboca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<time.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+
+1574705253 c:\users\geova\onedrive\documentos\programas\programinhas em c\faceboca\faceboca\grafo.h
+
+1574705253 source:c:\users\geova\onedrive\documentos\programas\programinhas em c\faceboca\faceboca\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	<string.h>
+	<locale.h>
+

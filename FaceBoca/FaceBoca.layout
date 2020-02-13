@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Grafo.c" open="1" top="0" tabpos="3">
+		<Cursor position="3842" topLine="142" />
+	</File>
+	<File name="Grafo.h" open="1" top="1" tabpos="2">
+		<Cursor position="674" topLine="6" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="1840" topLine="33" />
+	</File>
+</CodeBlocks_layout_file>
